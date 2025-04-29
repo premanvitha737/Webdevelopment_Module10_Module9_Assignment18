@@ -60,7 +60,7 @@ npm run dev
 Note: Make sure you have a WebSocket server (e.g., built with Flask or Node.js) running and accessible at the expected URL (e.g., ws://localhost:8000).
 
 
-**Sample outputs**
+## Sample outputs
 
 ![image](https://github.com/user-attachments/assets/76320308-c065-4a09-92fb-b1ce534ef277)
 ![image](https://github.com/user-attachments/assets/d1a4be2d-db73-4463-afa0-49df696f4d6b)
